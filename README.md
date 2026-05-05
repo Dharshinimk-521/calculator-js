@@ -95,7 +95,7 @@ Users can interact with the calculator using the keyboard:
 ## 🚀 Run Locally
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Dharshinimk-521/calculator-js.git
 cd calculator-app
 open index.html
 ```
